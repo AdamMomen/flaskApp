@@ -1,1 +1,1 @@
-worker: python app.py
+bundle exec thin start -p $PORT
